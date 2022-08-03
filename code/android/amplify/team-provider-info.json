@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crossworking-dev-144954-authRole",
+      "UnauthRoleArn": "arn:aws:iam::106033637464:role/amplify-crossworking-dev-144954-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::106033637464:role/amplify-crossworking-dev-144954-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-crossworking-dev-144954-deployment",
+      "UnauthRoleName": "amplify-crossworking-dev-144954-unauthRole",
+      "StackName": "amplify-crossworking-dev-144954",
+      "StackId": "arn:aws:cloudformation:eu-west-2:106033637464:stack/amplify-crossworking-dev-144954/0b9e6420-e7fb-11ec-b382-0a24e1866e62",
+      "AmplifyAppId": "d3riaobqxzfaaw"
+    },
+    "categories": {
+      "auth": {
+        "crossworking45762a1345762a13": {}
+      }
+    }
+  }
+}

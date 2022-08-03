@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790591925608",
+    "project_id": "crossworking-83237",
+    "storage_bucket": "crossworking-83237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790591925608:android:a0b302bf8ed8392d8ebadd",
+        "android_client_info": {
+          "package_name": "ps.crossworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790591925608-66rse90e72ncmit3mm03ibm9vqvv7sgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ps.crossworking",
+            "certificate_hash": "8f5b08dab56e793c2e2445a3e38b13f93aa9c168"
+          }
+        },
+        {
+          "client_id": "790591925608-1abnm7ptl14onpjiarces636c7mdg1sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUSTwY8mrxu3-CN6mZEbEo8EDufp7veE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790591925608-1abnm7ptl14onpjiarces636c7mdg1sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
