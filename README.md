@@ -2,8 +2,8 @@
 
 Project for PS course of the 2122 summer Semester, developed by:
 
-* Lourenço Vala - 47717
-* David Lourenço - 47722
+* Lourenço Vala - https://github.com/lourencovala
+* David Lourenço - https://github.com/dashwoodboy
 
 Oriented by João Trindade
 
