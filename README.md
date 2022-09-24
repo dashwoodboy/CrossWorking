@@ -15,3 +15,11 @@ All code can be found in the [code](code) folder. Divided into 2 projects:
 * [server](code/server/) - IntelliJ IDE project for Web API.
 
 Documents for the project can be found in the [docs](docs) folder.
+
+![register](/img/register.jpeg)
+
+![login](/img/login.jpeg)
+
+![feed](/img/feed.jpeg)
+
+![profile](/img/profile.jpeg)
