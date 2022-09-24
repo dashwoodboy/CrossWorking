@@ -16,10 +16,7 @@ All code can be found in the [code](code) folder. Divided into 2 projects:
 
 Documents for the project can be found in the [docs](docs) folder.
 
-![register](/img/register.jpeg)
 
-![login](/img/login.jpeg)
+<img src="./img/register.jpeg" alt="register" width="200"/> <img src="./img/login.jpeg" alt="login" width="200"/>
 
-![feed](/img/feed.jpeg)
-
-![profile](/img/profile.jpeg)
+<img src="./img/feed.jpeg" alt="feed" width="200"/> <img src="./img/profile.jpeg" alt="profile" width="200"/>
